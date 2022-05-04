@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "roomiesfrontend",
+    "roomies": "roomiesevo",
+    "roomiesevo": "roomiesevo",
+    "roomies-f0efd": "roomiesevo",
+    "roomiesfrontend": "roomiesfrontend"
+  },
+  "targets": {}
+}

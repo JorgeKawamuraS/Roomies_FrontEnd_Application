@@ -1,0 +1,81 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      src: 'https://cdn.vuetifyjs.com/images/cards/house.jpg',
+      flex: 4,
+      price: 'S/ 1800',
+      district: 'San Miguel, Lima',
+      avenue: 'aea1',
+      value: 2.5,
+      description: "asdasdasd",
+      btn_dsc: false
+    },
+    {
+      id: 2,
+      src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg',
+      flex: 4,
+      price: 'S/ 1600',
+      district: 'Los Olivos, Lima',
+      avenue: 'aea2',
+      value: 3.5,
+      description: "123d",
+      btn_dsc: false
+    },
+    {
+      id: 3,
+      src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+      flex: 4,
+      price: 'S/ 900',
+      district: 'VMT, Lima',
+      avenue: 'aea3',
+      value: 4.5,
+      description: "avsdfssd",
+      btn_dsc: false
+    },
+    {
+      id: 4,
+      src: 'https://cdn.vuetifyjs.com/images/cards/house.jpg',
+      flex: 4,
+      price: 'S/ 2100',
+      district: 'Independencia, Lima',
+      avenue: 'aea4',
+      value: 4.5,
+      description: "asd433asdasd",
+      btn_dsc: false
+    },
+    {
+      id: 5,
+      src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg',
+      flex: 4,
+      price: 'S/ 1100',
+      district: 'San Isidro, Lima',
+      avenue: 'aea5',
+      value: 3.0,
+      description: "asdapgkdfosdasd",
+      btn_dsc: false
+    },
+    {
+      id: 6,
+      src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg',
+      flex: 4,
+      price: 'S/ 1300',
+      district: 'Magdalena, Lima',
+      avenue: 'aea6',
+      value: 3.5,
+      description: "asdasdasd",
+      btn_dsc: false
+    },
+    {
+      id: 7,
+      src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg',
+      flex: 4,
+      price: 'S/ 1550',
+      district: 'Surco, Lima',
+      avenue: 'aea7',
+      value: 1,
+      description: "asdasdasd",
+      btn_dsc: false
+    }
+  ]
+}
